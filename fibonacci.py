@@ -6,10 +6,3 @@ for x in range(10):
     print(n1)
     n1 = n2
     n2 = n3
-
-y = []
-
-for c in ('palavra'[::-1]):
-    y.append(c)
-    print(y)
-
